@@ -1,4 +1,7 @@
 # algorithms_2017
+> Author : 大祥  
+> StartTime: 2017-06-23 ，ModifyTime：2017-06-24
+
 This is homeworks of algorithms in 2017 at NTUST.And exercise for algorithms.
 
 Our course textbook is Introduction to Algorithms 3rd edition.
